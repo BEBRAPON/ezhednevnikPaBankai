@@ -1,0 +1,4 @@
+﻿[*.{cs,vb}]
+
+# IDE0040: Добавить модификаторы доступа
+dotnet_diagnostic.IDE0040.severity = none
